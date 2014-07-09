@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28cd6f13-4251-4ee9-bce5-27b38d08e365" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="28cd6f13-4251-4ee9-bce5-27b38d08e365" name="Default" comment="" />
     <ignored path="symblog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,119 +22,7 @@
     <favorites_list name="symblog" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="base.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="43" selection-start="869" selection-end="869" vertical-scroll-proportion="-6.827586" vertical-offset="222" max-vertical-offset="1120">
-              <folding>
-                <element signature="e#916#942#0" expanded="true" />
-                <element signature="e#1008#1031#0" expanded="true" />
-                <element signature="e#1290#1316#0" expanded="true" />
-                <element signature="e#1418#1444#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="4" selection-start="6" selection-end="6" vertical-scroll-proportion="20.62069" vertical-offset="618" max-vertical-offset="1340">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_dev.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app_dev.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="18" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.7616361" vertical-offset="0" max-vertical-offset="709">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parameters.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="23" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="460">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppKernel.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="870" selection-end="870" vertical-scroll-proportion="-9.24138" vertical-offset="152" max-vertical-offset="820">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.lock" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.lock">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="32060">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parameters.yml.dist" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
-              <folding>
-                <marker date="1404293715000" expanded="true" signature="144:282" placeholder="BloggerBlogBundle_about:" />
-                <marker date="1404293715000" expanded="true" signature="193:244" placeholder="defaults:" />
-                <marker date="1404293715000" expanded="true" signature="250:282" placeholder="requirements:" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="1" selection-start="386" selection-end="386" vertical-scroll-proportion="-10.344828" vertical-offset="0" max-vertical-offset="420">
-              <folding>
-                <element signature="e#218#258#1" expanded="true" />
-                <element signature="e#336#376#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/about.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="-1.3793104" vertical-offset="0" max-vertical-offset="160">
-              <folding>
-                <element signature="e#12#47#0" expanded="true" />
-                <element signature="e#89#894#0" expanded="false" />
-                <marker date="1404293830000" expanded="true" signature="113:150" placeholder="..." />
-                <marker date="1404293830000" expanded="true" signature="160:878" placeholder="..." />
-                <marker date="1404293830000" expanded="true" signature="168:867" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -167,9 +53,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="874" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -258,7 +143,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="SearchEverywhereHistory" value="app_de&#10;app&#10;composer.json&#10;composer&#10;bas&#10;page&#10;routing&#10;app/config/routing&#10;routing.&#10;base.h&#10;default&#10;ro&#10;routing.yml&#10;routing.ym&#10;routing.y&#10;appkerne" />
     <property name="LayoutCode.rearrangeEntriesTwig" value="false" />
     <property name="LayoutCode.rearrangeEntriesYaml" value="false" />
@@ -322,10 +207,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5680693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.567757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40717822" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -340,8 +225,8 @@
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25681493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827103" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -417,9 +302,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="180">
           <folding>
-            <marker date="1404293715000" expanded="true" signature="144:282" placeholder="BloggerBlogBundle_about:" />
-            <marker date="1404293715000" expanded="true" signature="193:244" placeholder="defaults:" />
-            <marker date="1404293715000" expanded="true" signature="250:282" placeholder="requirements:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="BloggerBlogBundle_about:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="defaults:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="requirements:" />
           </folding>
         </state>
       </provider>
@@ -499,9 +384,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="180">
           <folding>
-            <marker date="1404293715000" expanded="true" signature="144:282" placeholder="BloggerBlogBundle_about:" />
-            <marker date="1404293715000" expanded="true" signature="193:244" placeholder="defaults:" />
-            <marker date="1404293715000" expanded="true" signature="250:282" placeholder="requirements:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="BloggerBlogBundle_about:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="defaults:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="requirements:" />
           </folding>
         </state>
       </provider>
@@ -581,9 +466,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="180">
           <folding>
-            <marker date="1404293715000" expanded="true" signature="144:282" placeholder="BloggerBlogBundle_about:" />
-            <marker date="1404293715000" expanded="true" signature="193:244" placeholder="defaults:" />
-            <marker date="1404293715000" expanded="true" signature="250:282" placeholder="requirements:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="BloggerBlogBundle_about:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="defaults:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="requirements:" />
           </folding>
         </state>
       </provider>
@@ -675,40 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
-          <folding>
-            <marker date="1404293715000" expanded="true" signature="144:282" placeholder="BloggerBlogBundle_about:" />
-            <marker date="1404293715000" expanded="true" signature="193:244" placeholder="defaults:" />
-            <marker date="1404293715000" expanded="true" signature="250:282" placeholder="requirements:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/about.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="-1.3793104" vertical-offset="0" max-vertical-offset="160">
-          <folding>
-            <element signature="e#12#47#0" expanded="true" />
-            <element signature="e#89#894#0" expanded="false" />
-            <marker date="1404293830000" expanded="true" signature="113:150" placeholder="..." />
-            <marker date="1404293830000" expanded="true" signature="160:878" placeholder="..." />
-            <marker date="1404293830000" expanded="true" signature="168:867" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="386" selection-end="386" vertical-scroll-proportion="-10.344828" vertical-offset="0" max-vertical-offset="420">
-          <folding>
-            <element signature="e#218#258#1" expanded="true" />
-            <element signature="e#336#376#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="43" selection-start="869" selection-end="869" vertical-scroll-proportion="-6.827586" vertical-offset="222" max-vertical-offset="1120">
@@ -721,16 +572,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
+        <state line="1" column="4" selection-start="6" selection-end="6" vertical-scroll-proportion="20.62069" vertical-offset="618" max-vertical-offset="1340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="18" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.68421054" vertical-offset="280" max-vertical-offset="700">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="460">
+        <state line="14" column="23" selection-start="426" selection-end="426" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="870" selection-end="870" vertical-scroll-proportion="0.63961816" vertical-offset="152" max-vertical-offset="820">
           <folding />
         </state>
       </provider>
@@ -745,24 +610,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="870" selection-end="870" vertical-scroll-proportion="-9.24138" vertical-offset="152" max-vertical-offset="820">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="6" selection-end="6" vertical-scroll-proportion="20.62069" vertical-offset="618" max-vertical-offset="1340">
-          <folding />
+        <state line="10" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.44642857" vertical-offset="0" max-vertical-offset="448">
+          <folding>
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="BloggerBlogBundle_about:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="defaults:" />
+            <marker date="1404293715000" expanded="true" signature="-1:-1" placeholder="requirements:" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Controller/PageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="18" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.7616361" vertical-offset="0" max-vertical-offset="709">
-          <folding />
+        <state line="15" column="1" selection-start="386" selection-end="386" vertical-scroll-proportion="0.7159904" vertical-offset="0" max-vertical-offset="420">
+          <folding>
+            <element signature="e#218#258#1" expanded="true" />
+            <element signature="e#336#376#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/views/Page/about.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="0.09546539" vertical-offset="0" max-vertical-offset="419">
+          <folding>
+            <element signature="e#12#47#0" expanded="true" />
+            <element signature="e#89#894#0" expanded="false" />
+            <marker date="1404293830000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404293830000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1404293830000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
